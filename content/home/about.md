@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Electrical Engineering & Computer Science"
-  institution = Massachusetts Institute of Technology"
+  institution = "Massachusetts Institute of Technology"
   year = 2016
 
 [[education.courses]]
