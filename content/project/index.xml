@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Gabe Hege</title>
+    <link>https://pghege.com/project/index.xml</link>
+    <description>Recent content in Projects on Gabe Hege</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Augmented Reality for Robot Prototyping</title>
+      <link>https://pghege.com/project/acl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pghege.com/project/acl/</guid>
+      <description>
+
+&lt;p&gt;[&lt;a href=&#34;https://pghege.com/research/acl.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Although the decreasing cost of electronic hardware has made unmanned aerial vehicles an affordable platform for developing autonomous algorithms, there are still many challenges facing this area of research including planning, control, perception and learning. When designing software models that tackles these problems, it is necessary to test the model’s performance on live robotic hardware. Performing live tests are a key step in transitioning algorithms from software simulation to real-world systems. These tests are important in understanding how the algorithm performs in different tasks and reacts to various kinds of environmental noise. In general, when running algorithms on physical robotics systems, new challenges that are often unrelated to the primary goals of the investigation present themselves, including issues of hardware failure and noisy environments. When running algorithms on flying robots or quads, these issues are magnified with the added concern of unsafe failure modes. When a ground robot fails, at worst it collides with a wall or stubs someone’s toe. When a quad fails, spinning propellers in the air may potentially cause more damage. With these challenges, the overhead of creating new demonstrations are time consuming obstacles that are often burdensome to researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drone&#43;&#43;</title>
+      <link>https://pghege.com/project/drone/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pghege.com/project/drone/</guid>
+      <description>&lt;p&gt;My work with drones started in high school with the Parrot A.R. Drone and the Kinect SDK in C#. From then, I have written and rewritten extensions on the project in Java, Python, Node.js and MATLAB. And I have also interfaced the drone with different types of hardware including the LEAP motion.&lt;/p&gt;
+
+&lt;p&gt;C# + KINECT&lt;/p&gt;
+
+&lt;p&gt;In high school, to complete my schools honors program requirement, we were required to complete a design project of our own with the guidance of a member of faculty. The only real requirement to the project is that it shows our interest in the subject. So I built a system that controls a quad-coptor through inputs from the Microsoft Kinect Sensor.&lt;/p&gt;
+
+&lt;!-- ![Drone In Action](/img/Drone-In-Action.png) --&gt;
+
+&lt;!-- https://www.youtube.com/watch?v=&amp;feature=youtu.be --&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/1bWKtaloclM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+MATLAB + KINECT&lt;/p&gt;
+
+&lt;p&gt;I rewrote the drone controller and kinect interface using MATLAB. I chose to change platforms because I was looking for more robust control over the hardware and to easily apply higher level processing (image processing, basic AI)&lt;/p&gt;
+
+&lt;p&gt;The ARDrone controller can be found on my github page
+&lt;!-- &lt;script src=&#34;//gist.github.com/hege0110/fcc61ae7d793c4eba30218560ab17aba.js&#34;&gt;&lt;/script&gt; --&gt;
+&lt;!-- &lt;script src=&#34;https://gist.github.com/hege0110/fcc61ae7d793c4eba30218560ab17aba.js&#34;&gt;&lt;/script&gt; --&gt;
+&lt;a href=&#34;https://github.com/hege0110/matlab-drone&#34; target=&#34;_blank&#34;&gt;MATLAB Drone&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning from Crowds</title>
+      <link>https://pghege.com/project/cocosci/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pghege.com/project/cocosci/</guid>
+      <description>
+
+&lt;p&gt;[&lt;a href=&#34;https://pghege.com/research/cocosci.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;VerbCorner is an online linguistics project which works to figure out what verbs mean using semantic structure and further understand how we communicate with one another. Figuring out what verbs mean is a large undertaking and requires many annotations to be made. VerbCorner takes the approach of presenting a short story to go along with a question at the end asking about various types of meaning. With the help of many people, the task of annotating verbs is a lot easier; but then we are left with the task of validating the annotations. To evaluate the quality of the annotations we apply an item- response model described in Hovy’s paper entitled Learning Whom to Trust with MACE[1]. The system that learns in an unsupervised way to do two things. 1) Identify which annotators are trustworthy and 2) predict the correct labels. We implemented a basic version of the model they described using probabilistic programming language Venture. Then we had the model run this model on the crowd sourced annotations on the semantic structure of verbs generated by users on VerbCorner. We tested the model in different conditions in hopes of finding out more about our data. Further refinement of the model, including taking a look at the priors distribution across the answers will have to be reconsidered.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
