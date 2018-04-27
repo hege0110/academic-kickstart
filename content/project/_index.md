@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Projects"
 date = 2017-01-01T00:00:00
 math = false
 highlight = false
@@ -7,6 +7,7 @@ highlight = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "POST HEADER CAPTION"
+caption = "PROJECT HEADER CAPTION"
 
+where does this text show up?
 +++
