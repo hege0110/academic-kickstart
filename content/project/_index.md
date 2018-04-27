@@ -9,5 +9,4 @@ highlight = false
 image = ""
 caption = "PROJECT HEADER CAPTION"
 
-where does this text show up?
 +++
