@@ -10,3 +10,5 @@ image = ""
 caption = "POST HEADER CAPTION"
 
 +++
+
+Post from index file
