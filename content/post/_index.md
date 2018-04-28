@@ -6,8 +6,8 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = "POST HEADER CAPTION"
+image = "portrait"
+caption = ""
 
 +++
 
