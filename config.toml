@@ -225,25 +225,25 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  # [[params.social]]
-  #   icon = "envelope"
-  #   icon_pack = "fa"
-  #   link = "mailto:test@example.org"
-  #
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
-  #
-  # [[params.social]]
-  #   icon = "google-scholar"
-  #   icon_pack = "ai"
-  #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-  #
-  # [[params.social]]
-  #   icon = "github"
-  #   icon_pack = "fa"
-  #   link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:test@example.org"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/GeorgeCushen"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -254,10 +254,10 @@ enableGitInfo = false
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
-# [[menu.main]]
-#   name = "Home"
-#   url = "#about"
-#   weight = 1
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
 
 # [[menu.main]]
 #   name = "Publications"
@@ -285,10 +285,10 @@ enableGitInfo = false
   weight = 6
 
 # Taxonomies.
-# [taxonomies]
-#   tag = "tags"
-#   category = "categories"
-#   publication_type = "publication_types"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
