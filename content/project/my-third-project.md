@@ -1,6 +1,6 @@
 +++
-title = "My First Project"
-date = 2018-04-28T09:54:57-07:00
+title = "My Third Project"
+date = 2018-04-28T10:25:58-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -29,4 +29,4 @@ image = ""
 caption = ""
 
 +++
-My first project
+my third project
