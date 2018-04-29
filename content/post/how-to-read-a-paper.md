@@ -7,7 +7,7 @@ draft = false
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-summary = "At best, academic papers can be difficult to understand; at worst, they can be boring. In this post I explore how I break them down."
+summary = "WIP: At best, academic papers can be difficult to understand; at worst, they can be boring. In this post I explore how I break them down."
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
