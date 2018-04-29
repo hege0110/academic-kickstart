@@ -3,7 +3,6 @@
 widget = "about"
 active = true
 date = 2016-04-20T00:00:00
-title = "About Me"
 
 # Order that this section will appear in.
 weight = 100
@@ -27,5 +26,7 @@ weight = 100
   year = 2017
 
 +++
+
+#About Me
 
 Gabe Hege is an engineer
