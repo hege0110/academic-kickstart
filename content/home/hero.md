@@ -11,7 +11,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 3
 [header]
-  overlay_color = "#8e44ad"  # An HTML color value.
+  overlay_color = "#9b59b6"  # An HTML color value.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
