@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Determining who to trust"
 
 # Optional image to display on homepage.
 image_preview = ""

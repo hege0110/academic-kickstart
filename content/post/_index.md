@@ -6,9 +6,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "portrait.jpg"
+image = ""
 caption = ""
 
 +++
-
-Post from index file

@@ -1,5 +1,5 @@
 +++
-title = "Augmented Reality for Robot Prototypingt"
+title = "Augmented Reality for Robot Prototyping"
 date = 2018-04-28T09:54:57-07:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Developing a system to handle robot failure modes"
 
 # Optional image to display on homepage.
 image_preview = ""

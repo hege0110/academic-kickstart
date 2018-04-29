@@ -7,8 +7,6 @@ highlight = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "PROJECT HEADER CAPTION"
+caption = ""
 
 +++
-
-Project from index file
