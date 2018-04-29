@@ -1,5 +1,5 @@
 +++
-title = "Learning From Crowds"
+title = "Learning From Crowdsourced Information"
 date = 2018-04-28T10:25:54-07:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Determining who to trust"
+summary = "Determine who to trust"
 
 # Optional image to display on homepage.
 image_preview = ""

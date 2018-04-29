@@ -16,4 +16,4 @@ weight = 3
 
 +++
 
-Here are a collection of my thoughts and projects. Enjoy!
+Here are a collection of my thoughts and works. Enjoy!

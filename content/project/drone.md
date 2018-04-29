@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Hobby experience with flying computer platforms"
+summary = "Documenting my hobby experience with flying computer platforms"
 
 # Optional image to display on homepage.
 image_preview = ""
