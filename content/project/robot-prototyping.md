@@ -11,7 +11,7 @@ tags = []
 summary = "How to handle robot failure modes with the help of AR"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "lava.jpeg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
