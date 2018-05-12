@@ -16,7 +16,7 @@ summary = "WIP: Software Engineering Quick Start Guide"
 [header]
 image = "beach-bora-bora.jpg"
 caption = ""
-preview = true
+preview = false
 
 +++
 
