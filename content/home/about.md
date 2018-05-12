@@ -28,5 +28,3 @@ weight = 100
 +++
 
 # About Me
-
-Gabe Hege is an engineer

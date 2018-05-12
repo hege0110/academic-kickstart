@@ -16,4 +16,4 @@ weight = 3
 
 +++
 
-Here are a collection of my thoughts and works. Enjoy!
+My name is Gabe. I am interested in storytelling in all it’s forms and enjoy building robots. Here are a collection of my thoughts and works. Enjoy!
