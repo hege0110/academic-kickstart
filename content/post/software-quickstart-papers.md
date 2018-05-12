@@ -17,16 +17,13 @@ summary = "WIP: Software Engineering Quick Start Guide"
 image = ""
 caption = ""
 preview = false
-
 +++
-
-
 
 ## Worse is Better
 http://www.mit.edu/~6.033/papers/Worse_is_Better.pdf
 This philosophy serves as the backbone for software engineering. It’s more of a high level discussion than a technical paper per se but gets you into the software mindset. Every software engineer I've met knows this philosophy.
 
-### Unix Time-Sharing System
+## Unix Time-Sharing System
 https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf
 Understanding UNIX is to understand computers. Most computers are unix based, practically all servers are.  This is moderately technical, but almost completely abstracts away the complexity of the actual CPU underneath it.
 
