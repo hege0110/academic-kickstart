@@ -8,6 +8,7 @@ draft = false
 tags = []
 categories = []
 summary = "WIP: At best, academic papers can be difficult to understand; at worst, they can be boring. In this post I explore how I break them down."
+image_preview = "swirl.jpeg"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
