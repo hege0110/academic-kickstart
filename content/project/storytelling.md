@@ -11,7 +11,7 @@ tags = []
 summary = "Documenting my hobby experience with writing"
 
 # Optional image to display on homepage.
-image_preview = "clouds-heaven-outdoors.jpg"
+image_preview = "clouds-heaven-outdoors.jpeg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

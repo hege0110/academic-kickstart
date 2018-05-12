@@ -11,7 +11,7 @@ tags = []
 summary = "Documenting my hobby experience with flying computer platforms"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "rhombus.jpeg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "rhombus.jpeg"
+image = ""
 caption = ""
 
 +++
