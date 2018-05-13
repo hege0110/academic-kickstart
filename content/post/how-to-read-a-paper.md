@@ -1,7 +1,7 @@
 +++
 title = "How to Read a Paper"
 date = 2018-04-28T16:44:57-07:00
-draft = false
+draft = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -25,4 +25,4 @@ Over the last five years I have had to read over probably close to two hundred a
 
 ## Define your goals
 
-## 
+##
