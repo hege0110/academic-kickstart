@@ -1,5 +1,5 @@
 +++
-title = "Systems Papers"
+title = "Software Systems Papers"
 date = 2018-04-28T17:37:38-07:00
 draft = false
 
@@ -25,10 +25,10 @@ This philosophy serves as the backbone for software engineering. It’s more of 
 
 ## Unix Time-Sharing System
 https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf
-Understanding UNIX is to understand computers. Most computers are unix based, practically all servers are.  This is moderately technical, but almost completely abstracts away the complexity of the actual CPU underneath it.
+Understanding UNIX is to understand computers. Most computers are unix based, and practically all servers are.  This is moderately technical, but almost completely abstracts away the complexity of the actual CPU underneath it.
 
 ## World Wide Web
-There are lot of lessons to learn within computers, but to fast forward to DNS (Domain Name Service) would help clarify the enigma that is the world wide web.
+Within computers, there are lot of lessons to learn, but to fast forward to DNS (Domain Name Service) would help clarify the enigma that is the world wide web.
 http://www.dtic.mil/dtic/tr/fulltext/u2/a203901.pdf
 Assuming you have two computers that can talk to one another on the same network, how does that scale to every computer in the globe?
 
