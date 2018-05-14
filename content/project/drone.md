@@ -42,7 +42,7 @@ In high school, to complete my schools honors program requirement, we were requi
 
 I rewrote the drone controller and kinect interface using MATLAB. I chose to change platforms because I was looking for more robust control over the hardware and to easily apply higher level processing (image processing, basic AI)
 
-{{ https://github.com/hege0110/matlab-drone }}
+https://github.com/hege0110/matlab-drone
 
 <!-- <script src="//gist.github.com/hege0110/fcc61ae7d793c4eba30218560ab17aba.js"></script> -->
 <!-- <script src="https://gist.github.com/hege0110/fcc61ae7d793c4eba30218560ab17aba.js"></script> -->

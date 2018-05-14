@@ -25,6 +25,8 @@ Academic papers are the best and worst innovation to have come from the scientif
 
 Over the last five years I have had to read over probably close to two hundred academic papers for class, work, and research. As I quickly learned, few papers are read entirely. It is common for one to skim, believe they get the gist, and move on. I've personally always found the format and tone used in academic papers poor at actually effectively conveying information to its readers. Especially in the increasing number of papers and information, it will continue to get harder and harder to catch up to what is current.
 
-## Define your goals
+This is how I have read papers and hopefully it works for some of you. After this post, I will break down some of my favorite papers hopefully in a useful way.
 
-##
+<!-- ## Define your goals
+
+## -->
