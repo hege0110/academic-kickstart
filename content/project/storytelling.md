@@ -29,5 +29,3 @@ image = ""
 caption = ""
 
 +++
-
-{{% staticref "files/chicken-nuggets.pdf" "newtab" %}} Chicken Nuggets {{% /staticref %}}
