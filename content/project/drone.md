@@ -31,7 +31,7 @@ caption = ""
 +++
 My work with drones started in high school with the Parrot A.R. Drone and the Kinect SDK in C#. From then, I have written and rewritten extensions on the project in Java, Python, Node.js and MATLAB. And I have also interfaced the drone with different types of hardware including the LEAP motion.
 
-{{< youtube 1bWKtaloclM}}
+{{< youtube 1bWKtaloclM >}}
 
 
 C# + KINECT
