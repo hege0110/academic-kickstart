@@ -19,6 +19,8 @@ caption = ""
 preview = false
 +++
 
+These are a few of papers that helped me the most when I was trying to understand "what is a computer" and "what they can and cannot do". Understanding the philosophy in the minds of the engineers who designed these systems contextualizes how the systems were built and their limitations.
+
 ## Worse is Better
 http://www.mit.edu/~6.033/papers/Worse_is_Better.pdf
 This philosophy serves as the backbone for software engineering. It’s more of a high level discussion than a technical paper per se but gets you into the software mindset. Every software engineer I've met knows this philosophy.
@@ -27,7 +29,7 @@ This philosophy serves as the backbone for software engineering. It’s more of 
 https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf
 Understanding UNIX is to understand computers. Most computers are unix based, and practically all servers are.  This is moderately technical, but almost completely abstracts away the complexity of the actual CPU underneath it.
 
-## World Wide Web
+## Domain Name Service
 Within computers, there are lot of lessons to learn, but to fast forward to DNS (Domain Name Service) would help clarify the enigma that is the world wide web.
 http://www.dtic.mil/dtic/tr/fulltext/u2/a203901.pdf
 Assuming you have two computers that can talk to one another on the same network, how does that scale to every computer in the globe?
