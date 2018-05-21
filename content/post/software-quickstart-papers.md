@@ -1,5 +1,5 @@
 +++
-title = "Software Systems Papers"
+title = "Intro to Software Systems Papers"
 date = 2018-04-28T17:37:38-07:00
 draft = true
 
@@ -20,6 +20,8 @@ preview = false
 +++
 
 A few of my friends have been looking for papers to "get into" computers. They were coming from a non-technical background and didn't want to get lost in technical jargon.
+
+This post is a work in progress.
 
 These are a few of papers that helped me the most when I was trying to understand "what is a computer" and "what they can and cannot do". Understanding the philosophy in the minds of the engineers who designed these systems contextualizes how the systems were built and their limitations.
 
